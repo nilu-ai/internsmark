@@ -171,7 +171,7 @@ def about():
 
 def check_auth(username, password):
 
-    return username == 'Nilesh@12' and password == 'Password!@#$%^&*()_'
+    return username == 'a' and password == 'p'
 
 def authenticate():
     """Sends a 401 response that enables basic auth"""
